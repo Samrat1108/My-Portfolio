@@ -6,7 +6,7 @@ h1{
     font-size: 50px;
 }
 .name-highlight{
-    color: hsl(24, 95%, 49%);
+    color: hsl(24, 97%, 15%);
 }
 .half-width{
     width: 40%;
@@ -41,4 +41,18 @@ h2{
 .second-part{
     background-image: url("background-image2.png");
     background-size: cover;
+}
+.last-part{
+    background-image: url("bg-3.png");
+    background-size: cover;
+}
+.white{
+    color: white;
+}
+.Shadow{
+    border: 2px solid white;
+    background-color: red;
+    border-radius: 10px;
+    box-shadow:10px 10px 10px rgba(235, 233, 233, 0.5);
+    margin: 50px;
 }
